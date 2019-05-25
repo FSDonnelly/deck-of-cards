@@ -1,0 +1,10 @@
+.Card {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
+
+.Card-area {
+    margin-top: 80px
+}
